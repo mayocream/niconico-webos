@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "package": "ares-package ./app",
-    "install": "ares-install --device tv ./niconico.*.ipk"
+    "install": "ares-install --device tv ./niconico.*.ipk",
+    "launch": "ares-launch --device tv niconico.mayo.rocks"
   },
   "keywords": [],
   "author": "",
