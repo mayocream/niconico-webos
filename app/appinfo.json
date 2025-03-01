@@ -1,0 +1,10 @@
+{
+  "id": "niconico.mayo.rocks",
+  "version": "0.1.0",
+  "vendor": "Mayo",
+  "type": "web",
+  "main": "index.html",
+  "title": "Niconico",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
